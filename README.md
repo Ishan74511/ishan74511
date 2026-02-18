@@ -3,6 +3,13 @@
   <img src="https://github.com/Ishan74511/Ishan74511/blob/main/img/banner.png" style="width:100%; max-height:400px; object-fit:cover; border-radius:10px;" alt="Banner Image"/>
 </div>
 
+<div align="center">
+  <h2>
+    <span style="color:#00fffc; text-shadow:0 0 5px #00fffc, 0 0 10px #00fffc, 0 0 20px #00fffc;">
+      ⚡ Research Before Execution. Structure Before Scale. ⚡
+    </span>
+  </h2>
+</div>
 
 ## Areas of Focus
 
