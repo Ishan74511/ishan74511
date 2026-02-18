@@ -1,8 +1,8 @@
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://github.com/Ishan74511/Ishan74511/blob/main/img/banner.png" style="width:100%; max-height:400px; object-fit:cover; border-radius:10px;" alt="Banner Image"/>
+</div>
 
-<!-- Banner Image -->
-<img src="https://github.com/Ishan74511/Ishan74511/blob/main/img/banner.png" width="100%"/>
-
-Hello! I'm Ishan, a passionate developer with a keen interest in technology and innovation. I enjoy solving problems and creating meaningful software solutions.
 
 ## Areas of Focus
 
