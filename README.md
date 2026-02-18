@@ -1,5 +1,6 @@
-# Ishan Vardhan
-## About
+
+<!-- Banner Image -->
+<img src="https://github.com/Ishan74511/Ishan74511/blob/main/img/banner.png" width="100%"/>
 
 Hello! I'm Ishan, a passionate developer with a keen interest in technology and innovation. I enjoy solving problems and creating meaningful software solutions.
 
@@ -30,6 +31,7 @@ Hello! I'm Ishan, a passionate developer with a keen interest in technology and 
 - Open to mentoring beginners and sharing knowledge with others in the tech community.  
 - Always eager to learn from others and appreciate diverse perspectives.
 
+---
 
 <div align="center">
   
